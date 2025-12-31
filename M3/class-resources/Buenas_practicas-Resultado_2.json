@@ -1,0 +1,30 @@
+{
+    "results": [
+        {
+            "fsq_place_id": "509fd01de4b070da0a9d3c24"
+        },
+        {
+            "fsq_place_id": "4a6fa0abf964a520a4d61fe3"
+        },
+        {
+            "fsq_place_id": "3fd66200f964a520daf11ee3"
+        },
+        {
+            "fsq_place_id": "540d97b5498e05abd30fd5ca"
+        },
+        {
+            "fsq_place_id": "5269a4b211d2d17acac22bd1"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 40.7128,
+                    "longitude": -74.006
+                },
+                "radius": 1000
+            }
+        }
+    }
+}
