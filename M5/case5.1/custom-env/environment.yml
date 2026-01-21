@@ -1,0 +1,5 @@
+$schema: https://azuremlschemas.azureedge.net/latest/environment.schema.json
+name: catboost-inference-env
+description: Entorno de inferencia para modelo CatBoost (Power BI + Azure ML)
+image: mcr.microsoft.com/azureml/minimal-ubuntu22.04-py310-cpu-inference
+conda_file: conda.yaml

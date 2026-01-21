@@ -1,0 +1,12 @@
+name: catboost-inference-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - catboost
+      - pandas
+      - scikit-learn
+      - joblib
+      - azureml-inference-server-http
