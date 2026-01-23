@@ -1,0 +1,10 @@
+Verificar python:
+py --list
+
+Instalar librerias:
+py -3.11 -m pip install --upgrade pip
+py -3.11 -m pip install jupyterlab scikit-learn pandas numpy ipykernel
+
+Ejecutar entorno:
+jupyter lab
+Opcional: py -3.11 -m jupyter lab
